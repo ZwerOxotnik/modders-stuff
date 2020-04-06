@@ -1,4 +1,3 @@
-require("modders-stuff/modders-scripts")
 local mod = {}
 
 mod.self_events = require("modders-stuff/self_events")
