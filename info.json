@@ -1,0 +1,14 @@
+{
+    "name": "modders-stuff",
+    "version": "0.0.2",
+    "factorio_version": "0.18",
+    "title": "Modder's stuff",
+    "author": "ZwerOxotnik",
+    "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik#7117",
+    "source": "https://github.com/ZwerOxotnik/modders-stuff",
+    "homepage": "https://www.reddit.com/r/ZwerOxotnik",
+    "description": "Just stuff for mod/script developers",
+    "dependencies": [
+        "event-listener >= 0.9.0"
+    ]
+}
